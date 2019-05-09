@@ -23,14 +23,14 @@ To avoid project chaotic project folders, it helps to organize files into a comm
 │   └── process_doc.md       <- Displaying process and some results (only if needed)
 |
 |── figures
-|   └── range.png            <- figure description
-|   └── eda.png              <- figure description
+|   ├── range.png            <- figure description
+|   ├── eda.png              <- figure description
 |   └── growth.png           <- figure description
 |
 └── scripts
-    └── d_wrangle.R          <- wrangling pre-processed tab data, output: processed.csv
-    └── src.R                <- cleaned and standardized covariates
-    └── model.R              <- model building/runs
+    ├── d_wrangle.R          <- wrangling pre-processed tab data, output: processed.csv
+    ├── src.R                <- cleaned and standardized covariates
+    ├── model.R              <- model building/runs
     └── vis.R                <- model results, tables, and visualizations
 
 
