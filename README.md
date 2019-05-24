@@ -7,7 +7,7 @@ Although this github space will likely be used to host many different projects, 
 
 
 ## General Project File Structure
-To avoid project chaotic project folders, it helps to organize files into a common structure. This is just an example, so keep in mind that the files and their descriptions will be unique to each project.
+To avoid chaotic project folders, it helps to organize files into a common structure. This is just an example, so keep in mind that the files and their descriptions will be unique to each project.
 ```
 ├── .gitignore               <- Files that should be ignored by git. 
 |
